@@ -124,10 +124,6 @@ Repositório curado com **28 notebooks** desenvolvidos ao longo do curso, reunin
 - Experimentos de comunicação, sinais, biofísica e bases biomédicas.
 - Links para Colab, assets visuais e documentação em Markdown.
 
-<p align="center">
-  <img src="assets/portfolio/vaut-konigsberg-euler.png" alt="Königsberg, Euler e grafos" width="360">
-  <img src="assets/portfolio/vaut-modelos-ia-criticidade.png" alt="Modelos de IA e criticidade acadêmica" width="360">
-</p>
 
 **Conceitos:** Python, Jupyter, pandas, NumPy, matplotlib, scikit-learn, grafos, algoritmos, machine learning, análise exploratória, comunicação e dados biomédicos.
 
