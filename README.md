@@ -184,49 +184,6 @@ Recriação do jogo Logo Turtle em linguagem C, com foco em programação impera
 
 ---
 
-
-## 🖼️ Vitrine visual
-
-<p align="center">
-  <img src="assets/portfolio/portfolio-gallery.jpg" alt="Galeria de projetos" width="760">
-</p>
-
-<p align="center">
-  <img src="assets/portfolio/vaut-python-notebooks-gallery.jpg" alt="Galeria do Vaut Python Notebooks" width="760">
-</p>
-
-Os projetos têm registros visuais, diagramas e plots para facilitar a leitura técnica: arquitetura de redes/federado, notebooks de grafos e IA, jogos acadêmicos, sinais, dados e protótipos de sistemas embarcados.
-
----
-
-
-## 🧭 O que estou buscando
-
-Busco estágio ou oportunidade júnior em áreas onde eu possa unir programação com resolução prática de problemas:
-
-- **Desenvolvimento Back-end**
-- **Automação / RPA / Integrações**
-- **Sistemas Embarcados / IoT**
-- **QA com automação**
-- **Dados / IA aplicada**
-
-Meu foco atual é consolidar uma base forte em **Python, Node.js, APIs, automações, redes, GitHub e documentação técnica**, usando meus projetos acadêmicos e práticos como portfólio.
-
----
-
-## 📌 Resumo do meu perfil
-
-```text
-Engenharia da Computação · UPE/POLI
-Back-end · Python · Node.js · Java · C
-Automação · Google APIs · Integrações
-STM32 · ESP32 · UART · I²C · SPI · Sensores
-MQTT · Redes · Sistemas distribuídos
-Jupyter · Dados · IA aplicada
-```
-
----
-
 ## 📫 Contato
 
 - Email: **vjfr@ecomp.poli.br**
