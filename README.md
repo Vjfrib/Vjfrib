@@ -179,11 +179,3 @@ Recriação do jogo Logo Turtle em linguagem C, com foco em programação impera
 **Conceitos:** C, Code::Blocks, modularização, menus, arquivos `.h/.c`, lógica procedural.
 
 ---
-
-## 📫 Contato
-
-- Email: **vjfr@ecomp.poli.br**
-- LinkedIn: [linkedin.com/in/vjfrib](https://www.linkedin.com/in/vjfrib/)
-- GitHub: [github.com/Vjfrib](https://github.com/Vjfrib)
-
----
