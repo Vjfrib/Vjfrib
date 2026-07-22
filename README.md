@@ -14,7 +14,7 @@ Tenho interesse especial em projetos que misturam software com aplicação prát
 
 ## 🚀 Foco profissional
 
-Atualmente estou organizando meu portfólio para oportunidades de entrada em tecnologia, principalmente em:
+Atualmente o portifólio consiste principalmente em:
 
 - **Desenvolvimento Back-end / APIs** — Python, Node.js, Java, integrações e serviços.
 - **Automação e RPA** — scripts, Google APIs, dados, planilhas, processos internos e tarefas repetitivas.
