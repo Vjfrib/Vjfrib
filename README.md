@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Vinícius Ribeiro
 
 **Estudante de Engenharia da Computação — UPE/POLI**  
-Busco oportunidades de **estágio em desenvolvimento**, com ênfase em **back-end, automação, integrações, sistemas embarcados/IoT, redes e IA aplicada**.
 
 Tenho interesse especial em projetos que misturam software com aplicação prática: APIs, automações, comunicação cliente-servidor, sensores, microcontroladores, dados e sistemas distribuídos.
 
@@ -19,7 +18,7 @@ Atualmente estou organizando meu portfólio para oportunidades de entrada em tec
 
 - **Desenvolvimento Back-end / APIs** — Python, Node.js, Java, integrações e serviços.
 - **Automação e RPA** — scripts, Google APIs, dados, planilhas, processos internos e tarefas repetitivas.
-- **IoT e Sistemas Embarcados** — STM32, ESP32, sensores, UART, I²C, SPI, ADC e integração com Python.
+- **IoT e Sistemas Embarcados** — ESP32, sensores, UART, I²C, SPI, ADC e integração com Web e Python.
 - **Redes e Sistemas Distribuídos** — MQTT, cliente-servidor, comunicação entre processos e aprendizado federado.
 - **Dados e IA aplicada** — notebooks Python, análise de dados, machine learning e experimentos acadêmicos.
 
